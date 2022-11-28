@@ -30,8 +30,10 @@ This program dynamically generates a professional README_<projectname>.md file f
 Ask permission from the author.
 
 ## Video Demonstration
+Screencastify:
+[![README Generator](./utils/images/READMEGenerator.png)](https://drive.google.com/file/d/1e8RSz7mW5LhxNpl5Rf0J1DgEN5VcrY55/view)
 
-[![README Generator](./utils/images/READMEGenerator.png)](https://www.youtube.com/embed/WSyKbYF-usg)
+Or in [Youtube](https://www.youtube.com/watch?v=WSyKbYF-usg)
 
 
 ## Questions? 
