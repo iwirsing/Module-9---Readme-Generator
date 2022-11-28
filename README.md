@@ -12,6 +12,8 @@ This program dynamically generates a professional README_<projectname>.md file f
 4. [Video Demonstration](#test) 
 5. [Questions](#questions)
 6. [License](#license)
+7. [Sources](#sources)
+
 
 ## Installation 
 
@@ -29,6 +31,9 @@ Ask permission from the author.
 
 ## Video Demonstration
 
+[![README Generator](./utils/images/READMEGenerator.png)](https://www.youtube.com/embed/WSyKbYF-usg)
+
+
 ## Questions? 
 
 Please contact me through any of the following:
@@ -39,4 +44,10 @@ Please contact me through any of the following:
 ## License
 
 The project in covered under the [MIT](https://opensource.org/licenses/MIT) license.
+
+## Sources
+1. https://stackoverflow.com
+2. https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+
+
 
