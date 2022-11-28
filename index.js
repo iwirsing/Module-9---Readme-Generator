@@ -27,10 +27,30 @@ const questions = [
         name: 'usage',
     },
     {
+        type: 'input',
+        message: 'What is the contribution guideline for your project?',
+        name: 'contributing',
+    },
+    {
+    type: 'input',
+    message: 'What is the test instruction for your project?',
+    name: 'test',
+    },
+    {
         type: 'list',
         message: 'What is the usage information for your project?',
-        choices: ['Apache License 2.0', 'MI'T],
+        choices: ['none','Apache License 2.0','Boost Software License 1.0','BSD 2-Clause License','BSD 3-Clause License','GNU General Public License v.3.0.', 'MIT'],
         name:'license',
+    },
+    {
+        type: 'input',
+        message: 'What is your Github username?',
+        name: 'username',
+    },
+    {
+        type: 'input',
+        message: 'What is your email?',
+        name: 'email',
     },
 ];
 
