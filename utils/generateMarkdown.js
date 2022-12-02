@@ -113,7 +113,7 @@ function generateMarkdown(data) {
 
   Please contact me through any of the following:
   
-  1. My [Github]('https://github.com/'+${data.username}).
+  1. My [Github](https://github.com/${data.username}).
   2. Email: <a href="mailto:${data.email}">${data.email}</a>
 
 ${renderLicenseSection(data.license)}
