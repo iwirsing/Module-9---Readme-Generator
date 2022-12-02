@@ -40,7 +40,7 @@ Or in [Youtube](https://www.youtube.com/watch?v=WSyKbYF-usg)
 
 Please contact me through any of the following:
 
-1. My [Github]('https://github.com/'+iwirsing).
+1. My [Github](https://github.com/+iwirsing).
 2. Email: <a href="mailto:ivymolina@gmail.com">ivymolina@gmail.com</a>
 
 ## License
