@@ -3,7 +3,7 @@
 
 ##  Description:
 
-This program dynamically generates a professional README_<projectname>.md file from a user's input through the command-line. This program uses the Inquirer package.   e and is ran outside of the browser and in the terminal.
+This program dynamically generates a professional README_<projectname>.md file from a user's input through the command-line. This program uses the Inquirer package and is ran outside of the browser and in the terminal.
 
 ##  Table of Contents 
 1. [Installation](#installation)
